@@ -1,5 +1,5 @@
-from importlib.metadata import metadata
 import re
+from importlib.metadata import metadata
 from typing_extensions import Self
 from yaml import load, FullLoader
 from collections.abc import Mapping
